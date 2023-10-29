@@ -4,6 +4,10 @@
   padding: 0;
 }
 /* Position static is default to all */
+/* Position sticky used in navbar */
+/* Position fixed used in second page */
+/* Position relative used in first page */
+/* Position absolute used in footer */
 nav {
   background-color: black;
   height: 30px;
